@@ -1,0 +1,5 @@
+- browser access or in vs code browser
+- Add claude code docs mcp as test
+- explore ultracode
+- explore loops
+- **hooks**?

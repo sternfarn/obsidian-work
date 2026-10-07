@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "b79010ef0f730b36",
+    "type": "split",
+    "children": [
+      {
+        "id": "2555e07d454960f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efb1f2ebc6ba78a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Lynx/Lynx.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lynx"
+            }
+          },
+          {
+            "id": "14776f9edd0570dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unbenannt 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unbenannt 2"
+            }
+          },
+          {
+            "id": "aa6f2975c08d01a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-10-06.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-06"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c81bef628258918",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8f478a7582ab892",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cdd1d1b5a906c1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "3a6ee75ea1a35d7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "OMV",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "51b302609ac7c8c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5
+  },
+  "right": {
+    "id": "b16234975e40610d",
+    "type": "split",
+    "children": [
+      {
+        "id": "694fad26fd21e782",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e726ef559fc87de8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unbenannt.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise"
+            }
+          },
+          {
+            "id": "1fd0271f41259ddc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unbenannt.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links"
+            }
+          },
+          {
+            "id": "28651a539aef5d3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "641244fa8253097d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "d29615e37d0627bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects/Lynx/Lynx.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung"
+            }
+          },
+          {
+            "id": "7717cecea9691d7a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "5250ac059c0c5f4c",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "📅 Calendar.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Fußnoten"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false,
+      "zk-prefixer:Neue eindeutige Notiz erstellen": false
+    }
+  },
+  "active": "efb1f2ebc6ba78a4",
+  "lastOpenFiles": [
+    "Unbenannt 2.md",
+    "Projects/Lynx/Lynx.md",
+    "Daily/2026-10-06.md",
+    "Daily/2026-10-07.md",
+    "Unbenannt 1.md",
+    "Projects/Lynx/Todos Confluence.md",
+    "Projects/Lynx/Done.md",
+    "Projects/Lynx/Anchor link feature.md",
+    "Unbenannt.md",
+    "Daily/2026-10-05.md",
+    "Calendar.md",
+    "Templates/Daily Note.md",
+    "Canvas.canvas",
+    "Daily/2026-10-02.md",
+    "Daily/2026-10-01.md",
+    "Sometime.md",
+    "Daily/2026-08-28.md",
+    "Unbenannt.base",
+    "Unbenannt 1.base",
+    "Unbenannt.canvas",
+    "Projects/Launch CLI.md",
+    "ip.md",
+    "Projects/Kitaco.md",
+    "Drawer/AI - Code rewrite.md",
+    "Daily/2026-09-30.md",
+    "Projects/SSO Portal/Docs.md",
+    "Daily/2026-09-29.md",
+    "Daily/2026-09-14.md",
+    "Daily/2026-09-04.md",
+    "Daily/2026-09-24.md",
+    "Pasted image 20260925102319.png",
+    "Pasted image 20260925102325.png",
+    "Templates/sedQHgHIC",
+    "AI",
+    "Events",
+    "📅 Daily",
+    "📅 Events",
+    "Monthly",
+    "Projects/SSO Portal",
+    "Pasted image 20260826130552.png",
+    "Pasted image 20260826130608.png",
+    "Pasted image 20260826130713.png",
+    "Templates"
+  ]
+}

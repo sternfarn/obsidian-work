@@ -1,0 +1,6 @@
+- Tnt: # https://nexxar.atlassian.net/wiki/spaces/CLIENTS/pages/242009646/Beiersdorf+TnT
+- Prep Ticket: # https://app.productive.io/17342-nexxar-gmbh/tasks/14135794
+- Caption mit span:
+	- ar24 live: # https://reports.beiersdorf.com/geschaeftsbericht/2024/zusammengefasster-lagebericht/wirtschaftsbericht/ertragslage/ertragslage-konzern.html
+	- ar25 cms: # https://hippo.nexxar.com/clients/beiersdorf/ar25/de/zusammengefasster-lagebericht/wirtschaftsbericht/ertragslage/ertragslage-konzern
+- Assets: # https://transfer.nexxar.com/index.php/apps/files/files/1009900?dir=/Beiersdorf/Annual%20Report%202025/Collaboration/Assets&openfile=true
